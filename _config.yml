@@ -9,7 +9,7 @@
 title: AnAn
 brief-intro: Android and Python Coder
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://AnANa1224.github.io" # the base hostname & protocol for your site
+url: "https://AnANa1224.blog.com" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
